@@ -1,0 +1,65 @@
+[gd_scene load_steps=9 format=3 uid="uid://byr4mqcn5h4vv"]
+
+[ext_resource type="Texture2D" uid="uid://bit0xiyap7jxl" path="res://assets/Flappy Bird Assets/Player/StyleBird2/Bird2-2.png" id="1_7tayr"]
+[ext_resource type="Script" path="res://nodes/player.cs" id="1_p2tft"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ym3ex"]
+radius = 8.0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a3bsi"]
+atlas = ExtResource("1_7tayr")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ppern"]
+atlas = ExtResource("1_7tayr")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bff1p"]
+atlas = ExtResource("1_7tayr")
+region = Rect2(32, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_67npe"]
+atlas = ExtResource("1_7tayr")
+region = Rect2(48, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ag0yh"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a3bsi")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ppern")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a3bsi")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bff1p")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_67npe")
+}],
+"loop": true,
+"name": &"Up",
+"speed": 15.0
+}]
+
+[node name="Player" type="CharacterBody2D"]
+position = Vector2(0, -3)
+scale = Vector2(10, 10)
+script = ExtResource("1_p2tft")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -1)
+shape = SubResource("CircleShape2D_ym3ex")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_ag0yh")
+animation = &"Idle"
+autoplay = "Idle"

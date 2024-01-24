@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://dba8diqrg275i"]
+
+[ext_resource type="PackedScene" uid="uid://byr4mqcn5h4vv" path="res://nodes/player.tscn" id="1_pay3m"]
+[ext_resource type="Texture2D" uid="uid://d0af0l3c7oo5y" path="res://assets/Flappy Bird Assets/Background/Background2.png" id="1_un4bh"]
+
+[node name="main" type="Node2D"]
+scale = Vector2(0.4, 0.4)
+
+[node name="Background2" type="Sprite2D" parent="."]
+position = Vector2(1286, 1289)
+scale = Vector2(10, 10)
+texture = ExtResource("1_un4bh")
+
+[node name="Player" parent="." instance=ExtResource("1_pay3m")]
+position = Vector2(1257, 1458)
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+position = Vector2(-0.6, 0)
+zoom = Vector2(1.1, 1)
+limit_left = 0
+limit_top = 0
+limit_bottom = 1024
