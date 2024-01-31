@@ -1,0 +1,35 @@
+[gd_scene load_steps=6 format=3 uid="uid://bvs3sajfmcvwn"]
+
+[ext_resource type="Texture2D" uid="uid://6unvc05am1y3" path="res://assets/Flappy Bird Assets/Tiles/Style 1/PipeStyle1.png" id="1_suo30"]
+[ext_resource type="Script" path="res://nodes/Pillar.cs" id="1_tb5vt"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cjfdf"]
+size = Vector2(28.3, 77.9)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xk6w1"]
+atlas = ExtResource("1_suo30")
+region = Rect2(96, 0, 32, 80)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_x0icg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xk6w1")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="Pillar" type="StaticBody2D"]
+position = Vector2(6, 0)
+scale = Vector2(10, 10)
+script = ExtResource("1_tb5vt")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(15.8, -40.9)
+shape = SubResource("RectangleShape2D_cjfdf")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(15.9, -40.5)
+sprite_frames = SubResource("SpriteFrames_x0icg")

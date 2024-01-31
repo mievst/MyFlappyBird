@@ -5,14 +5,15 @@ using System.Runtime.CompilerServices;
 public partial class player : CharacterBody2D
 {
 	public const float Gravity = 50f;
-	public const float Jump = -1500f;
+	public const float Jump = -1100f;
 	public bool Started = false;
+	public bool IsDead = false;
 	// Get the gravity from the project settings to be synced with RigidBody nodes.
 	public float gravity = ProjectSettings.GetSetting("physics/2d/default_gravity").AsSingle();
 
 	public override void _PhysicsProcess(double delta)
 	{
-
+		if (IsDead) return;
 		Vector2 velocity = new Vector2(Velocity.X, Velocity.Y);
 
 		if (!Velocity.IsZeroApprox() || Started)
@@ -26,7 +27,7 @@ public partial class player : CharacterBody2D
 		}
 
 		// Handle Jump.
-		if (Input.IsActionJustPressed("ui_accept"))
+		if (Input.IsActionJustPressed("ui_accept") && !IsDead)
 		{
 			Started = true;
 			if (Position.Y < 500) 
@@ -55,7 +56,12 @@ public partial class player : CharacterBody2D
 		}
 		if (colided)
 		{
-
+			Velocity = new Vector2(0, 0);
+			Node2D main = (Node2D)FindParent("main");
+			Node2D scoreNode = (Node2D)main.FindChild("Score");
+			var score = (RichTextLabel)scoreNode.FindChild("RichTextLabel");
+			score.Text += $"\nYOU LOSE!";
+			IsDead = true;
 		}
 	}
 }

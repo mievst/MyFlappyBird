@@ -1,2 +1,850 @@
 # Godot 4+ specific ignores
 .godot/
+Build/MyFlappyBird.apk
+Build/MyFlappyBird.apk.idsig
+Build/MyFlappyBird.zip
+Build/MyFlappyBird/MyFlappyBird.console.exe
+Build/MyFlappyBird/MyFlappyBird.exe
+Build/MyFlappyBird/MyFlappyBird.pck
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-console-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-console-l1-2-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-datetime-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-debug-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-errorhandling-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-fibers-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-file-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-file-l1-2-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-file-l2-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-handle-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-heap-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-interlocked-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-libraryloader-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-localization-l1-2-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-memory-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-namedpipe-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-processenvironment-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-processthreads-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-processthreads-l1-1-1.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-profile-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-rtlsupport-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-string-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-synch-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-synch-l1-2-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-sysinfo-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-timezone-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-core-util-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-conio-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-convert-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-environment-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-filesystem-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-heap-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-locale-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-math-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-multibyte-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-private-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-process-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-runtime-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-stdio-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-string-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-time-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/api-ms-win-crt-utility-l1-1-0.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/clretwrc.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/clrjit.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/coreclr.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/createdump.exe
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/dbgshim.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/GodotSharp.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/hostfxr.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/hostpolicy.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.CSharp.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.DiaSymReader.Native.amd64.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.VisualBasic.Core.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.VisualBasic.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.Win32.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/Microsoft.Win32.Registry.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/mscordaccore_amd64_amd64_6.0.2623.60508.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/mscordaccore.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/mscordbi.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/mscorlib.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/mscorrc.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/msquic.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.deps.json
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.pdb
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.runtimeconfig.json
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/netstandard.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.AppContext.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Buffers.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Collections.Concurrent.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Collections.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Collections.Immutable.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Collections.NonGeneric.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Collections.Specialized.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.Annotations.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.DataAnnotations.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.EventBasedAsync.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ComponentModel.TypeConverter.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Configuration.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Console.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Core.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Data.Common.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Data.DataSetExtensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Data.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.Contracts.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.Debug.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.DiagnosticSource.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.FileVersionInfo.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.Process.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.StackTrace.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.TextWriterTraceListener.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.Tools.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.TraceSource.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Diagnostics.Tracing.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Drawing.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Drawing.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Dynamic.Runtime.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Formats.Asn1.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Globalization.Calendars.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Globalization.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Globalization.Extensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Compression.Brotli.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Compression.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Compression.FileSystem.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Compression.Native.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Compression.ZipFile.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.FileSystem.AccessControl.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.FileSystem.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.FileSystem.DriveInfo.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.FileSystem.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.FileSystem.Watcher.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.IsolatedStorage.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.MemoryMappedFiles.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Pipes.AccessControl.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.Pipes.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.IO.UnmanagedMemoryStream.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Linq.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Linq.Expressions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Linq.Parallel.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Linq.Queryable.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Memory.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Http.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Http.Json.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.HttpListener.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Mail.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.NameResolution.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.NetworkInformation.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Ping.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Quic.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Requests.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Security.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.ServicePoint.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.Sockets.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.WebClient.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.WebHeaderCollection.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.WebProxy.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.WebSockets.Client.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Net.WebSockets.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Numerics.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Numerics.Vectors.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ObjectModel.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Private.CoreLib.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Private.DataContractSerialization.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Private.Uri.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Private.Xml.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Private.Xml.Linq.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.DispatchProxy.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Emit.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Emit.ILGeneration.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Emit.Lightweight.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Extensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Metadata.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Reflection.TypeExtensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Resources.Reader.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Resources.ResourceManager.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Resources.Writer.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.CompilerServices.Unsafe.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.CompilerServices.VisualC.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Extensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Handles.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.InteropServices.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.InteropServices.RuntimeInformation.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Intrinsics.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Loader.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Numerics.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Serialization.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Serialization.Formatters.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Serialization.Json.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Serialization.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Runtime.Serialization.Xml.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.AccessControl.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Claims.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.Algorithms.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.Cng.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.Csp.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.Encoding.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.OpenSsl.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.Primitives.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Cryptography.X509Certificates.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Principal.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.Principal.Windows.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Security.SecureString.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ServiceModel.Web.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ServiceProcess.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.Encoding.CodePages.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.Encoding.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.Encoding.Extensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.Encodings.Web.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.Json.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Text.RegularExpressions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Channels.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Overlapped.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Tasks.Dataflow.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Tasks.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Tasks.Extensions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Tasks.Parallel.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Thread.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.ThreadPool.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Threading.Timer.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Transactions.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Transactions.Local.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.ValueTuple.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Web.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Web.HttpUtility.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Windows.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.Linq.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.ReaderWriter.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.Serialization.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.XDocument.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.XmlDocument.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.XmlSerializer.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.XPath.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/System.Xml.XPath.XDocument.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/ucrtbase.dll
+Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/WindowsBase.dll
+android/.build_version
+android/build/.gdignore
+android/build/AndroidManifest.xml
+android/build/build.gradle
+android/build/config.gradle
+android/build/gradle.properties
+android/build/gradlew
+android/build/gradlew.bat
+android/build/settings.gradle
+android/build/.gradle/file-system.probe
+android/build/.gradle/7.4.2/gc.properties
+android/build/.gradle/7.4.2/checksums/checksums.lock
+android/build/.gradle/7.4.2/checksums/md5-checksums.bin
+android/build/.gradle/7.4.2/checksums/sha1-checksums.bin
+android/build/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock
+android/build/.gradle/7.4.2/dependencies-accessors/gc.properties
+android/build/.gradle/7.4.2/executionHistory/executionHistory.bin
+android/build/.gradle/7.4.2/executionHistory/executionHistory.lock
+android/build/.gradle/7.4.2/fileChanges/last-build.bin
+android/build/.gradle/7.4.2/fileHashes/fileHashes.bin
+android/build/.gradle/7.4.2/fileHashes/fileHashes.lock
+android/build/.gradle/7.4.2/fileHashes/resourceHashesCache.bin
+android/build/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+android/build/.gradle/buildOutputCleanup/cache.properties
+android/build/.gradle/buildOutputCleanup/outputFiles.bin
+android/build/.gradle/vcs-1/gc.properties
+android/build/assetPacks/installTime/build.gradle
+android/build/assets/_cl_
+android/build/assets/icon.svg
+android/build/assets/icon.svg.import
+android/build/assets/project.binary
+android/build/assets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.deps.json
+android/build/assets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.runtimeconfig.json
+android/build/assets/Properties/launchSettings.json
+android/build/assets/Properties/Resources.Designer.cs
+android/build/assets/assets/Flappy Bird Assets/demo-img-1.png.import
+android/build/assets/assets/Flappy Bird Assets/demo-img-2.png.import
+android/build/assets/assets/Flappy Bird Assets/demo-img-3.png.import
+android/build/assets/assets/Flappy Bird Assets/demo-img-4.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background1.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background2.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background3.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background4.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background5.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background6-Sheet.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background6.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background7.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background8.png.import
+android/build/assets/assets/Flappy Bird Assets/Background/Background9.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/AllBird1.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-1.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-3.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-4.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-5.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-6.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-7.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/AllBird2.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-1.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-2.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-3.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-4.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-5.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-6.png.import
+android/build/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-7.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 1/PipeStyle1.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1_floor.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 1/TileStyle1.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 2/PipeStyle2.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 2/SimpleStyle2.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 2/TileStyle2.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 3/PipeStyle3.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 3/SimpleStyle3.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 3/TileStyle3.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 4/PipeStyle4.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 4/SimpleStyle4.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 4/TileStyle4.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 5/PipeStyle5.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 5/SimpleStyle5.png.import
+android/build/assets/assets/Flappy Bird Assets/Tiles/Style 5/TileStyle5.png.import
+android/build/assets/levels/main.cs
+android/build/assets/levels/main.tscn.remap
+android/build/assets/nodes/Floor.cs
+android/build/assets/nodes/floor.tscn.remap
+android/build/assets/nodes/Pillar.cs
+android/build/assets/nodes/pillar.tscn.remap
+android/build/assets/nodes/player.cs
+android/build/assets/nodes/player.tscn.remap
+android/build/build/generated/source/buildConfig/release/com/godot/game/BuildConfig.java
+android/build/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+android/build/build/intermediates/app_metadata/release/app-metadata.properties
+android/build/build/intermediates/assets/release/mergeReleaseAssets/_cl_
+android/build/build/intermediates/assets/release/mergeReleaseAssets/icon.svg
+android/build/build/intermediates/assets/release/mergeReleaseAssets/icon.svg.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/project.binary
+android/build/build/intermediates/assets/release/mergeReleaseAssets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.deps.json
+android/build/build/intermediates/assets/release/mergeReleaseAssets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.runtimeconfig.json
+android/build/build/intermediates/assets/release/mergeReleaseAssets/Properties/launchSettings.json
+android/build/build/intermediates/assets/release/mergeReleaseAssets/Properties/Resources.Designer.cs
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/demo-img-1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/demo-img-2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/demo-img-3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/demo-img-4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background6-Sheet.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background6.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background7.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background8.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Background/Background9.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/AllBird1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-6.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-7.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/AllBird2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-6.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-7.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 1/PipeStyle1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1_floor.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 1/TileStyle1.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 2/PipeStyle2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 2/SimpleStyle2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 2/TileStyle2.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 3/PipeStyle3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 3/SimpleStyle3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 3/TileStyle3.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 4/PipeStyle4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 4/SimpleStyle4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 4/TileStyle4.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 5/PipeStyle5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 5/SimpleStyle5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/assets/Flappy Bird Assets/Tiles/Style 5/TileStyle5.png.import
+android/build/build/intermediates/assets/release/mergeReleaseAssets/levels/main.cs
+android/build/build/intermediates/assets/release/mergeReleaseAssets/levels/main.tscn.remap
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/Floor.cs
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/floor.tscn.remap
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/Pillar.cs
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/pillar.tscn.remap
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/player.cs
+android/build/build/intermediates/assets/release/mergeReleaseAssets/nodes/player.tscn.remap
+android/build/build/intermediates/compatible_screen_manifest/release/output-metadata.json
+android/build/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/_cl_.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/icon.svg.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/icon.svg.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/project.binary.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.deps.json.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/Build/MyFlappyBird/data_MyFlappyBird_windows_x86_64/MyFlappyBird.runtimeconfig.json.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/Properties/launchSettings.json.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/Properties/Resources.Designer.cs.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/demo-img-1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/demo-img-2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/demo-img-3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/demo-img-4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background6-Sheet.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background6.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background7.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background8.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Background/Background9.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/AllBird1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-6.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird1/Bird1-7.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/AllBird2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-6.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Player/StyleBird2/Bird2-7.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 1/PipeStyle1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1_floor.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 1/SimpleStyle1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 1/TileStyle1.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 2/PipeStyle2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 2/SimpleStyle2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 2/TileStyle2.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 3/PipeStyle3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 3/SimpleStyle3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 3/TileStyle3.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 4/PipeStyle4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 4/SimpleStyle4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 4/TileStyle4.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 5/PipeStyle5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 5/SimpleStyle5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/assets/Flappy Bird Assets/Tiles/Style 5/TileStyle5.png.import.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/levels/main.cs.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/levels/main.tscn.remap.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/Floor.cs.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/floor.tscn.remap.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/Pillar.cs.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/pillar.tscn.remap.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/player.cs.jar
+android/build/build/intermediates/compressed_assets/release/out/assets/nodes/player.tscn.remap.jar
+android/build/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.2.1
+android/build/build/intermediates/default_proguard_files/global/proguard-android.txt-7.2.1
+android/build/build/intermediates/default_proguard_files/global/proguard-defaults.txt-7.2.1
+android/build/build/intermediates/external_file_lib_dex_archives/release/0_classes.jar
+android/build/build/intermediates/external_libs_dex/release/mergeExtDexRelease/classes.dex
+android/build/build/intermediates/incremental/mergeReleaseAssets/merger.xml
+android/build/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+android/build/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/compile-file-map.properties
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merger.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values/values.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-af/values-af.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-am/values-am.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ar/values-ar.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-as/values-as.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-az/values-az.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-be/values-be.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-bg/values-bg.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-bn/values-bn.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-bs/values-bs.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ca/values-ca.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-cs/values-cs.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-da/values-da.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-de/values-de.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-el/values-el.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en/values-en.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-es/values-es.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-es-rES/values-es-rES.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-et/values-et.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-eu/values-eu.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-fa/values-fa.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-fi/values-fi.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-fr/values-fr.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-gl/values-gl.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-gu/values-gu.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-hi/values-hi.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-hr/values-hr.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-hu/values-hu.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-hy/values-hy.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-in/values-in.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-is/values-is.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-it/values-it.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-iw/values-iw.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ja/values-ja.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ka/values-ka.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-kk/values-kk.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-km/values-km.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-kn/values-kn.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ko/values-ko.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ky/values-ky.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-lo/values-lo.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-lt/values-lt.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-lv/values-lv.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-mk/values-mk.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ml/values-ml.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-mn/values-mn.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-mr/values-mr.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ms/values-ms.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-my/values-my.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-nb/values-nb.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ne/values-ne.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-nl/values-nl.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-or/values-or.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-pa/values-pa.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-pl/values-pl.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-pt/values-pt.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ro/values-ro.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ru/values-ru.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-si/values-si.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sk/values-sk.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sl/values-sl.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sq/values-sq.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sr/values-sr.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sv/values-sv.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-sw/values-sw.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ta/values-ta.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-te/values-te.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-th/values-th.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-tl/values-tl.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-tr/values-tr.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-uk/values-uk.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-ur/values-ur.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-uz/values-uz.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-v16/values-v16.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-v21/values-v21.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-vi/values-vi.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-zh/values-zh.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml
+android/build/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-zu/values-zu.xml
+android/build/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+android/build/build/intermediates/merged_jni_libs/release/out/godot-lib.template_release.aar
+android/build/build/intermediates/merged_manifest/release/AndroidManifest.xml
+android/build/build/intermediates/merged_manifests/release/AndroidManifest.xml
+android/build/build/intermediates/merged_manifests/release/output-metadata.json
+android/build/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libc++_shared.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/arm64-v8a/libgodot_android.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libc++_shared.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libgodot_android.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/x86/libc++_shared.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/x86/libgodot_android.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/x86_64/libc++_shared.so
+android/build/build/intermediates/merged_native_libs/release/out/lib/x86_64/libgodot_android.so
+android/build/build/intermediates/merged_res/release/drawable_splash_drawable.xml.flat
+android/build/build/intermediates/merged_res/release/drawable-nodpi_splash_bg_color.png.flat
+android/build/build/intermediates/merged_res/release/drawable-nodpi_splash.png.flat
+android/build/build/intermediates/merged_res/release/mipmap_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap_icon.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-hdpi-v4_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-hdpi-v4_icon.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-mdpi-v4_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-mdpi-v4_icon.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xhdpi-v4_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xhdpi-v4_icon.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xxhdpi-v4_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xxhdpi-v4_icon.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xxxhdpi-v4_icon_foreground.png.flat
+android/build/build/intermediates/merged_res/release/mipmap-xxxhdpi-v4_icon.png.flat
+android/build/build/intermediates/merged_res/release/values_values.arsc.flat
+android/build/build/intermediates/merged_res/release/values-af_values-af.arsc.flat
+android/build/build/intermediates/merged_res/release/values-am_values-am.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ar_values-ar.arsc.flat
+android/build/build/intermediates/merged_res/release/values-as_values-as.arsc.flat
+android/build/build/intermediates/merged_res/release/values-az_values-az.arsc.flat
+android/build/build/intermediates/merged_res/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+android/build/build/intermediates/merged_res/release/values-be_values-be.arsc.flat
+android/build/build/intermediates/merged_res/release/values-bg_values-bg.arsc.flat
+android/build/build/intermediates/merged_res/release/values-bn_values-bn.arsc.flat
+android/build/build/intermediates/merged_res/release/values-bs_values-bs.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ca_values-ca.arsc.flat
+android/build/build/intermediates/merged_res/release/values-cs_values-cs.arsc.flat
+android/build/build/intermediates/merged_res/release/values-da_values-da.arsc.flat
+android/build/build/intermediates/merged_res/release/values-de_values-de.arsc.flat
+android/build/build/intermediates/merged_res/release/values-el_values-el.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en_values-en.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en-rAU_values-en-rAU.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en-rCA_values-en-rCA.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en-rGB_values-en-rGB.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en-rIN_values-en-rIN.arsc.flat
+android/build/build/intermediates/merged_res/release/values-en-rXC_values-en-rXC.arsc.flat
+android/build/build/intermediates/merged_res/release/values-es_values-es.arsc.flat
+android/build/build/intermediates/merged_res/release/values-es-rES_values-es-rES.arsc.flat
+android/build/build/intermediates/merged_res/release/values-es-rUS_values-es-rUS.arsc.flat
+android/build/build/intermediates/merged_res/release/values-et_values-et.arsc.flat
+android/build/build/intermediates/merged_res/release/values-eu_values-eu.arsc.flat
+android/build/build/intermediates/merged_res/release/values-fa_values-fa.arsc.flat
+android/build/build/intermediates/merged_res/release/values-fi_values-fi.arsc.flat
+android/build/build/intermediates/merged_res/release/values-fr_values-fr.arsc.flat
+android/build/build/intermediates/merged_res/release/values-fr-rCA_values-fr-rCA.arsc.flat
+android/build/build/intermediates/merged_res/release/values-gl_values-gl.arsc.flat
+android/build/build/intermediates/merged_res/release/values-gu_values-gu.arsc.flat
+android/build/build/intermediates/merged_res/release/values-hi_values-hi.arsc.flat
+android/build/build/intermediates/merged_res/release/values-hr_values-hr.arsc.flat
+android/build/build/intermediates/merged_res/release/values-hu_values-hu.arsc.flat
+android/build/build/intermediates/merged_res/release/values-hy_values-hy.arsc.flat
+android/build/build/intermediates/merged_res/release/values-in_values-in.arsc.flat
+android/build/build/intermediates/merged_res/release/values-is_values-is.arsc.flat
+android/build/build/intermediates/merged_res/release/values-it_values-it.arsc.flat
+android/build/build/intermediates/merged_res/release/values-iw_values-iw.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ja_values-ja.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ka_values-ka.arsc.flat
+android/build/build/intermediates/merged_res/release/values-kk_values-kk.arsc.flat
+android/build/build/intermediates/merged_res/release/values-km_values-km.arsc.flat
+android/build/build/intermediates/merged_res/release/values-kn_values-kn.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ko_values-ko.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ky_values-ky.arsc.flat
+android/build/build/intermediates/merged_res/release/values-lo_values-lo.arsc.flat
+android/build/build/intermediates/merged_res/release/values-lt_values-lt.arsc.flat
+android/build/build/intermediates/merged_res/release/values-lv_values-lv.arsc.flat
+android/build/build/intermediates/merged_res/release/values-mk_values-mk.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ml_values-ml.arsc.flat
+android/build/build/intermediates/merged_res/release/values-mn_values-mn.arsc.flat
+android/build/build/intermediates/merged_res/release/values-mr_values-mr.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ms_values-ms.arsc.flat
+android/build/build/intermediates/merged_res/release/values-my_values-my.arsc.flat
+android/build/build/intermediates/merged_res/release/values-nb_values-nb.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ne_values-ne.arsc.flat
+android/build/build/intermediates/merged_res/release/values-nl_values-nl.arsc.flat
+android/build/build/intermediates/merged_res/release/values-or_values-or.arsc.flat
+android/build/build/intermediates/merged_res/release/values-pa_values-pa.arsc.flat
+android/build/build/intermediates/merged_res/release/values-pl_values-pl.arsc.flat
+android/build/build/intermediates/merged_res/release/values-pt_values-pt.arsc.flat
+android/build/build/intermediates/merged_res/release/values-pt-rBR_values-pt-rBR.arsc.flat
+android/build/build/intermediates/merged_res/release/values-pt-rPT_values-pt-rPT.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ro_values-ro.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ru_values-ru.arsc.flat
+android/build/build/intermediates/merged_res/release/values-si_values-si.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sk_values-sk.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sl_values-sl.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sq_values-sq.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sr_values-sr.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sv_values-sv.arsc.flat
+android/build/build/intermediates/merged_res/release/values-sw_values-sw.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ta_values-ta.arsc.flat
+android/build/build/intermediates/merged_res/release/values-te_values-te.arsc.flat
+android/build/build/intermediates/merged_res/release/values-th_values-th.arsc.flat
+android/build/build/intermediates/merged_res/release/values-tl_values-tl.arsc.flat
+android/build/build/intermediates/merged_res/release/values-tr_values-tr.arsc.flat
+android/build/build/intermediates/merged_res/release/values-uk_values-uk.arsc.flat
+android/build/build/intermediates/merged_res/release/values-ur_values-ur.arsc.flat
+android/build/build/intermediates/merged_res/release/values-uz_values-uz.arsc.flat
+android/build/build/intermediates/merged_res/release/values-v16_values-v16.arsc.flat
+android/build/build/intermediates/merged_res/release/values-v21_values-v21.arsc.flat
+android/build/build/intermediates/merged_res/release/values-vi_values-vi.arsc.flat
+android/build/build/intermediates/merged_res/release/values-zh_values-zh.arsc.flat
+android/build/build/intermediates/merged_res/release/values-zh-rCN_values-zh-rCN.arsc.flat
+android/build/build/intermediates/merged_res/release/values-zh-rHK_values-zh-rHK.arsc.flat
+android/build/build/intermediates/merged_res/release/values-zh-rTW_values-zh-rTW.arsc.flat
+android/build/build/intermediates/merged_res/release/values-zu_values-zu.arsc.flat
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/release.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-af.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-am.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ar.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-as.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-az.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-b+sr+Latn.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-be.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bg.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bn.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-bs.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ca.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-cs.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-da.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-de.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-el.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rAU.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rCA.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rGB.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rIN.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en-rXC.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-en.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-es-rES.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-es-rUS.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-es.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-et.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-eu.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fa.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fi.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fr-rCA.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-fr.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-gl.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-gu.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hi.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hr.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hu.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-hy.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-in.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-is.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-it.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-iw.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ja.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ka.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-kk.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-km.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-kn.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ko.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ky.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lo.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lt.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-lv.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mk.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ml.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mn.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-mr.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ms.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-my.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-nb.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ne.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-nl.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-or.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pa.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pl.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt-rBR.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt-rPT.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-pt.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ro.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ru.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-si.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sk.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sl.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sq.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sr.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sv.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-sw.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ta.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-te.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-th.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-tl.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-tr.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-uk.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-ur.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-uz.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v16.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-v21.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-vi.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rCN.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rHK.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh-rTW.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zh.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values-zu.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/multi-v2/values.json
+android/build/build/intermediates/merged_res_blame_folder/release/out/single/release.json
+android/build/build/intermediates/metadata_application_id/release/application-id.txt
+android/build/build/intermediates/metadata_library_dependencies_report/release/dependencies.pb
+android/build/build/intermediates/navigation_json/release/navigation.json
+android/build/build/intermediates/packaged_manifests/release/AndroidManifest.xml
+android/build/build/intermediates/packaged_manifests/release/output-metadata.json
+android/build/build/intermediates/processed_res/release/out/output-metadata.json
+android/build/build/intermediates/processed_res/release/out/resources-release.ap_
+android/build/build/intermediates/runtime_symbol_list/release/R.txt
+android/build/build/intermediates/sdk_dependency_data/release/sdkDependencyData.pb
+android/build/build/intermediates/signing_config_versions/release/signing-config-versions.json
+android/build/build/intermediates/source_set_path_map/release/file-map.txt
+android/build/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libc++_shared.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/arm64-v8a/libgodot_android.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libc++_shared.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/armeabi-v7a/libgodot_android.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/x86/libc++_shared.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/x86/libgodot_android.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libc++_shared.so
+android/build/build/intermediates/stripped_native_libs/release/out/lib/x86_64/libgodot_android.so
+android/build/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+android/build/build/kotlinToolingMetadata/kotlin-tooling-metadata.json
+android/build/build/outputs/logs/manifest-merger-release-report.txt
+android/build/build/outputs/sdk-dependencies/release/sdkDependencies.txt
+android/build/gradle/wrapper/gradle-wrapper.jar
+android/build/gradle/wrapper/gradle-wrapper.properties
+android/build/libs/debug/godot-lib.template_debug.aar
+android/build/libs/release/godot-lib.template_release.aar
+android/build/res/drawable/splash_drawable.xml
+android/build/res/drawable-nodpi/splash_bg_color.png
+android/build/res/drawable-nodpi/splash.png
+android/build/res/mipmap/icon_foreground.png
+android/build/res/mipmap/icon.png
+android/build/res/mipmap-hdpi-v4/icon_foreground.png
+android/build/res/mipmap-hdpi-v4/icon.png
+android/build/res/mipmap-mdpi-v4/icon_foreground.png
+android/build/res/mipmap-mdpi-v4/icon.png
+android/build/res/mipmap-xhdpi-v4/icon_foreground.png
+android/build/res/mipmap-xhdpi-v4/icon.png
+android/build/res/mipmap-xxhdpi-v4/icon_foreground.png
+android/build/res/mipmap-xxhdpi-v4/icon.png
+android/build/res/mipmap-xxxhdpi-v4/icon_foreground.png
+android/build/res/mipmap-xxxhdpi-v4/icon.png
+android/build/res/values/godot_project_name_string.xml
+android/build/res/values/themes.xml
+android/build/res/values-ar/godot_project_name_string.xml
+android/build/res/values-bg/godot_project_name_string.xml
+android/build/res/values-ca/godot_project_name_string.xml
+android/build/res/values-cs/godot_project_name_string.xml
+android/build/res/values-da/godot_project_name_string.xml
+android/build/res/values-de/godot_project_name_string.xml
+android/build/res/values-el/godot_project_name_string.xml
+android/build/res/values-en/godot_project_name_string.xml
+android/build/res/values-es/godot_project_name_string.xml
+android/build/res/values-es-rES/godot_project_name_string.xml
+android/build/res/values-fa/godot_project_name_string.xml
+android/build/res/values-fi/godot_project_name_string.xml
+android/build/res/values-fr/godot_project_name_string.xml
+android/build/res/values-hi/godot_project_name_string.xml
+android/build/res/values-hr/godot_project_name_string.xml
+android/build/res/values-hu/godot_project_name_string.xml
+android/build/res/values-in/godot_project_name_string.xml
+android/build/res/values-it/godot_project_name_string.xml
+android/build/res/values-iw/godot_project_name_string.xml
+android/build/res/values-ja/godot_project_name_string.xml
+android/build/res/values-ko/godot_project_name_string.xml
+android/build/res/values-lt/godot_project_name_string.xml
+android/build/res/values-lv/godot_project_name_string.xml
+android/build/res/values-nb/godot_project_name_string.xml
+android/build/res/values-nl/godot_project_name_string.xml
+android/build/res/values-pl/godot_project_name_string.xml
+android/build/res/values-pt/godot_project_name_string.xml
+android/build/res/values-ro/godot_project_name_string.xml
+android/build/res/values-ru/godot_project_name_string.xml
+android/build/res/values-sk/godot_project_name_string.xml
+android/build/res/values-sl/godot_project_name_string.xml
+android/build/res/values-sr/godot_project_name_string.xml
+android/build/res/values-sv/godot_project_name_string.xml
+android/build/res/values-th/godot_project_name_string.xml
+android/build/res/values-tl/godot_project_name_string.xml
+android/build/res/values-tr/godot_project_name_string.xml
+android/build/res/values-uk/godot_project_name_string.xml
+android/build/res/values-vi/godot_project_name_string.xml
+android/build/res/values-zh/godot_project_name_string.xml
+android/build/res/values-zh-rHK/godot_project_name_string.xml
+android/build/res/values-zh-rTW/godot_project_name_string.xml
+android/build/src/com/godot/game/GodotApp.java
+android/build/src/release/AndroidManifest.xml
